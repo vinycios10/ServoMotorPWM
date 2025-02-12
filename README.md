@@ -36,3 +36,6 @@ Este programa controla um servo motor conectado à GPIO 22 do Raspberry Pi Pico,
 ## Autor
 Projeto desenvolvido como parte de um exercício prático para controle de PWM com Raspberry Pi Pico.
 
+## Link de apresentação
+https://youtu.be/KpIm7RoA9yo
+
